@@ -9,3 +9,5 @@ function lastImageSelector() {
   var lastImage = $('img:last')
   return lastImage
 }
+
+function 
