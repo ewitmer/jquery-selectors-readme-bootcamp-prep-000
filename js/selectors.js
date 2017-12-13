@@ -21,6 +21,6 @@ function divSelector() {
 }
 
 function firstListItem() {
-  var listItem = $('#pic-list > 1i:first-child')
+  var listItem = $('#pic-list 1i:first-child')
   return listItem
 }
